@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author STATION20B
+ * @author Caesar
  */
 public class NoteAppMenu {
 
